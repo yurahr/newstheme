@@ -1,0 +1,52 @@
+/***адаптивные стили***/
+@media screen and (max-width:1200px) { 
+	
+}
+@media screen and (max-width:1000px) {  
+	.inner{  
+    text-align: center;
+    text-transform: uppercase;
+}
+/*.nav-link ul{
+		display: none;
+		background-color: rgba(0, 0, 0, 0.8);
+		position: absolute;
+		width: 100%;
+		padding: 15px 0;
+	}
+
+	.nav-link ul li{
+		display: block;
+		margin-top: 10px;
+	}
+
+	.mob-menu-button{
+		display: block;
+	}*/
+
+	
+}
+
+@media only screen and (max-width:768px) {
+	
+}
+
+@media only screen and (max-width:590px) {
+	.inner li{
+    display: block;
+    margin-bottom: 10px; 
+    text-transform: uppercase;
+}
+	
+}
+
+@media screen and (max-width:480px) {  
+	
+}
+
+@media screen and (max-width:320px){
+		
+}
+@media screen and (min-width:1000px) {  
+	
+}
